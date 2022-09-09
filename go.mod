@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/go-gormigrate/gormigrate/v2 v2.0.2
-	github.com/mitz-it/golang-logging v0.0.3
+	github.com/mitz-it/golang-logging v0.0.1
 	gorm.io/gorm v1.23.8
 )
 

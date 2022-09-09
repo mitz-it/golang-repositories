@@ -3,6 +3,8 @@ package migrations
 import (
 	"reflect"
 
+	logging "github.com/mitz-it/golang-logging"
+
 	"github.com/go-gormigrate/gormigrate/v2"
 	"gorm.io/gorm"
 )
