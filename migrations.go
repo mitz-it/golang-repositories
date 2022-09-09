@@ -4,7 +4,6 @@ import (
 	"reflect"
 
 	"github.com/go-gormigrate/gormigrate/v2"
-	"gitlab.internal.cloud.payly.com.br/microservices/chassis/logging"
 	"gorm.io/gorm"
 )
 

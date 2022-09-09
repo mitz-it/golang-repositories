@@ -1,12 +1,10 @@
-module gitlab.internal.cloud.payly.com.br/microservices/chassis/repositories
+module github.com/mitz-it/golang-repositories
 
 go 1.19
 
-replace gitlab.internal.cloud.payly.com.br/microservices/chassis/logging => gitlab.internal.cloud.payly.com.br/microservices/chassis/logging.git v0.0.3
-
 require (
 	github.com/go-gormigrate/gormigrate/v2 v2.0.2
-	gitlab.internal.cloud.payly.com.br/microservices/chassis/logging v0.0.3
+	github.com/mitz-it/golang-logging v0.0.3
 	gorm.io/gorm v1.23.8
 )
 
